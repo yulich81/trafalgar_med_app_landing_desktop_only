@@ -23,5 +23,5 @@ This is website template for vpn landing page with HTML and CSS. Desktop view on
 
 ## Links
 
-- Github: [click here]()
-- Netlify: [click here]()
+- Github: [click here](https://github.com/yulich81/trafalgar_med_app_landing_desktop_only)
+- Netlify: [click here](https://dainty-croissant-c4043b.netlify.app/)
